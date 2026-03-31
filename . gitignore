@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.DS_Store
+
+output/*
+!output/.gitkeep
+
+videos/*
+!videos/.gitkeep
+
+yolov10*.pt
